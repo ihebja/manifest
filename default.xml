@@ -12,6 +12,6 @@
     <project name="emploi.git" remote="github" path="job/emploi" />
     <project name="SHOUTcast-Recorder.git" remote="github" path="dev/SHOUTcast-Recorder" />
     <project name="adbd.git" remote="github" path="dev/adbd" revision="gingerbread-adbd" />
-    <project name="buildroot.git" remote="github" path="dev/buildroot" />
+    <project name="buildroot.git" remote="buildroot" path="dev/buildroot" />
 
 </manifest>
