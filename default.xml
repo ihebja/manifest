@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github" fetch="https://github.com/yoannsculo"/>
+    <remote name="github" fetch="https://github.com/ihebja"/>
     <remote name="buildroot" fetch="git://git.buildroot.net"/>
 
     <default revision="master" remote="github" sync-j="8"/>
